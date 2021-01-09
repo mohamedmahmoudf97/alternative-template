@@ -33,12 +33,12 @@
 		</button>
 
 		<!--	logo	-->
-		<a class="navbar-brand logo" href="index.html">Alternative School</a>
+		<a class="navbar-brand logo" href="index.php">Alternative School</a>
 
 		<!--	nav	-->
 		<div class="collapse navbar-collapse" id="ftco-nav">
 			<ul class="navbar-nav ml-auto">
-				<li class="nav-item active"><a href="index.html" class="nav-link pl-0">Home</a></li>
+				<li class="nav-item active"><a href="index.php" class="nav-link pl-0">Home</a></li>
 				<li class="nav-item"><a href="about.html" class="nav-link">About</a></li>
 				<li class="nav-item"><a href="teacher.html" class="nav-link">Teacher</a></li>
 				<!-- <li class="nav-item"><a href="courses.html" class="nav-link">Courses</a></li> -->
