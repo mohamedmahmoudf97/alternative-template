@@ -8132,9 +8132,12 @@ h5,
   -o-transition: all 0.3s ease;
   -webkit-transition: all 0.3s ease;
   -ms-transition: all 0.3s ease;
-  transition: all 0.3s ease; }
+  transition: all 0.3s ease;
+  padding-bottom: 5px;
+  box-shadow: 0 0 3px 1px;
+  border-radius: 10px;}
   .staff .img-wrap {
-    height: 300px; }
+    max-height: 300px; }
   .staff .img {
     width: 100%;
     display: block;
